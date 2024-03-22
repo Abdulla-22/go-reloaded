@@ -1,5 +1,7 @@
 # Text Completion/Editing/Auto-Correction Tool
 
+(The programe need more improvment!!!)
+
 This is the README file for the text completion/editing/auto-correction tool project. The objective of this project is to create a simple tool in Go that can modify text based on specific rules and requirements. The tool will receive input from a file, perform the necessary modifications, and output the modified text to another file.
 
 ## Project Objectives
