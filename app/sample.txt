@@ -1,1 +1,146 @@
-a abkhdf
+This is so exciting(up,2)
+We are witnessing HISTORY (low,3) right now!
+Life is beautiful and this is AWESOME (low,7)!
+The mountains are majestic (up,3) and beautiful.
+Roses are red (low,2) violets are blue.
+A (cap,1) b (cap, 1) c (cap,1) d.
+I liKE DOGS (low,2) but cats are fine too.
+1E (hex) files were added
+We processed FF (hex) entries yesterday.
+The value is AB (hex) and the result is correct.
+The background color is FF00FF (hex).
+The color code for black is 0 (hex).
+The value is FACE (hex) in hexadecimal.
+She provided BEEF (hex) as the hex code.
+His score was 1A3 (hex).
+It has been 10 (bin) years
+The answer is 101 (bin).
+In binary, 1101 (bin) translates to decimal.
+The permissions are set to 111 (bin).
+The number 1100 (bin) in binary is 12 in decimal.
+I have learned 1010 (bin) recently.
+My favorite number in binary is 1110 (bin).
+The binary representation of 15 is 1111 (bin).
+Ready, set, go (up) !
+The sky is blue (up).
+It's raining (up)!
+Please stand (up)!
+This test is fun (up).
+He is fast (cap).
+I have a ball (cap) and a bat (cap).
+Look at that tree (up). It's huge!
+I should stop SHOUTING (low)
+This Is Mixed CASE (low).
+My NAME is (low).
+WELCOME TO THE WORLD (low)!
+THIS IS SO LOUD (low)!
+She is FANTASTIC (low).
+HELLO WORLD (low).
+How are YOU (low)?
+Welcome to the Brooklyn bridge (cap)
+hello world (cap).
+i love coding (cap)?
+the sun is shining (cap)!
+This is a dog (cap).
+He is a super hero (cap).
+It is a lovely day (cap).
+We live in a (cap) beautiful world.
+I was sitting over there ,and then BAMM !!
+I was thinking ... You were right
+Wait ,what did you say !? Are you sure . . . ?
+This is a test : is it working?
+What is this ...Really !?
+She said : ' It's raining '
+Wait ! That's mine.
+It's raining ,isn't it ?
+What ... is that ?
+I am exactly how they describe me: ' awesome '
+As Elton John said: ' I am the most well-known homosexual in the world '
+She said : ' I am going ' and left.
+Here's another example: ' that's a 'quote' ' within a quote.
+She whispered : ' This is a secret '
+He yelled : ' Run ! '
+She said : ' I'm leaving ' and walked away.
+The book titled ' How to Win ' is a bestseller.
+There it was. A amazing rock!
+It is a apple and a honor.
+She has a umbrella and a old hat.
+This is a opportunity for a hero.
+I need a answer.
+This is a example of an article.
+It is a hour long.
+She is a honest person.
+The code is DEAD (hex).
+Colors are great: FF0000 (hex) for red and 00FF00 (hex) for green.
+I found CAFE (hex) interesting.
+Data received: BEE (hex).
+You should convert DEF (hex) now.
+The ID is A1B2 (hex).
+Brightness is set to C0C0C0 (hex).
+The header has a color of FAFAFA (hex).
+The mask is set to AA (hex).
+For the background, use EEE (hex).
+The mask is set to 10101 (bin).
+The answer was 11011 (bin).
+To represent 7 in binary, it is 111 (bin).
+The configuration was set to 1001001 (bin).
+The switch has value 1110001 (bin).
+For the bits, use 110110 (bin).
+The pattern is 10101010 (bin).
+Your flag should be 1111 (bin).
+The output was 10001 (bin).
+My favorite pattern is 111000111 (bin).
+What are you doing (up) ?
+She was dancing (up).
+I heard it (up)!
+The letter is m (up).
+He said yes (up).
+The answer was wrong (up)!
+This is my book (up).
+Can I join (up) ?
+You are the winner (up)!
+Let's eat (up)!
+What is your NAME (low) ?
+He shouted LOUDLY (low).
+I LIKE (low)! this!
+The first letter of alphabet is A (low).
+My country is INDIA (low).
+Your ANSWER (low) is incorrect!
+This is YOUR (low) pencil.
+I LIVE (low) here?
+The BEST (low) thing happened!
+She went to PARIS (low).
+i am happy (cap).
+this is my ball (cap) and bat (cap).
+you are the best (cap).
+let's dance (cap) tonight.
+it is raining (cap).
+he is a superhero (cap).
+we should move (cap) now.
+they are laughing (cap).
+the cat is out of the bag (cap).
+you need to study (cap).
+She is coming ,right ?
+Hello ,how are you ?
+I can't believe it ...What !?
+Oh ,really !?
+It's raining ,isn't it ?
+Look at that : it's a bird !
+Are you serious ,man ?
+That's right ,you heard me !
+I am here ...Where are you ?
+Hold on ...What !?
+She said : 'I am here'
+The sign read : 'Keep out '
+He whispered : ' This is a secret '
+The book was titled ' The Great Gatsby '
+She shouted : ' I won '
+He replied : ' Not now '
+The message said : ' Meet me at noon '
+The song was called ' Bohemian Rhapsody '
+She texted : ' Where are you '
+The title was ' Catcher in the Rye '
+I have a apple.
+She is a honest woman.
+There is a hour left.
+It was a unexpected event.

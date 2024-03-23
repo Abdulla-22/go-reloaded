@@ -1,1 +1,145 @@
-an abkhdf
+This is SO EXCITING
+ We are witnessing history right now! 
+life is beautiful and this is awesome! 
+The MOUNTAINS ARE MAJESTIC and beautiful. 
+Roses are red violets are blue. 
+A B C d. 
+I like dogs but cats are fine too. 
+30 files were added
+We processed 255 entries yesterday. 
+The value is 171 and the result is correct. 
+The background color is 16711935. 
+The color code for black is 0. 
+The value is 64206 in hexadecimal. 
+She provided 48879 as the hex code. 
+His score was 419. 
+It has been 2 years
+The answer is 5. 
+In binary, 13 translates to decimal. 
+The permissions are set to 7. 
+The number 12 in binary is 12 in decimal. 
+I have learned 10 recently. 
+My favorite number in binary is 14. 
+The binary representation of 15 is 15. 
+Ready, set, GO! 
+The sky is BLUE. 
+It's RAINING! 
+Please STAND! 
+This test is FUN. 
+He is Fast. 
+I have a Ball and a Bat. 
+Look at that TREE. It's huge! 
+I should stop shouting
+This Is Mixed case. 
+My NAME is. 
+WELCOME TO THE world! 
+THIS IS SO loud! 
+She is fantastic. 
+HELLO world. 
+How are you? 
+Welcome to the Brooklyn Bridge
+hello World. 
+i love Coding? 
+the sun is Shining! 
+This is a Dog. 
+He is a super Hero. 
+It is a lovely Day. 
+We live in A beautiful world. 
+I was sitting over there, and then BAMM!! 
+I was thinking... You were right
+Wait, what did you say!? Are you sure...? 
+This is a test: is it working? 
+What is this... Really!? 
+She said: 'It's raining 'Wait! That's mine. 
+It's raining, isn't it? 
+What... is that? 
+I am exactly how they describe me: 'awesome'
+As Elton John said: 'I am the most well-known homosexual in the world'
+She said: 'I am going' and left. 
+Here's another example:' that's a'quote'' within a quote. 
+She whispered: 'This is a secret'
+He yelled: 'Run!'
+She said: 'I'm leaving ' and walked away. 
+The book titled 'How to Win' is a bestseller. 
+There it was. An amazing rock! 
+It is an apple and an honor. 
+She has an umbrella and an old hat. 
+This is an opportunity for an hero. 
+I need an answer. 
+This is an example of an article. 
+It is an hour long. 
+She is an honest person. 
+The code is 57005. 
+Colors are great: 16711680 for red and 65280 for green. 
+I found 51966 interesting. 
+Data received: 3054. 
+You should convert 3567 now. 
+The ID is 41394. 
+Brightness is set to 12632256. 
+The header has a color of 16448250. 
+The mask is set to 170. 
+For the background, use 3822. 
+The mask is set to 21. 
+The answer was 27. 
+To represent 7 in binary, it is 7. 
+The configuration was set to 73. 
+The switch has value 113. 
+For the bits, use 54. 
+The pattern is 170. 
+Your flag should be 15. 
+The output was 17. 
+My favorite pattern is 455. 
+What are you DOING? 
+She was DANCING. 
+I heard IT! 
+The letter is M. 
+He said YES. 
+The answer was WRONG! 
+This is my BOOK. 
+Can I JOIN? 
+You are the WINNER! 
+Let's EAT! 
+What is your name? 
+He shouted loudly. 
+I like! this! 
+The first letter of alphabet is a. 
+My country is india. 
+Your answer is incorrect! 
+This is your pencil. 
+I live here? 
+The best thing happened! 
+She went to paris. 
+i am Happy. 
+this is my Ball and Bat. 
+you are the Best. 
+let's Dance tonight. 
+it is Raining. 
+he is a Superhero. 
+we should Move now. 
+they are Laughing. 
+the cat is out of the Bag. 
+you need to Study. 
+She is coming, right? 
+Hello, how are you? 
+I can't believe it... What!? 
+Oh, really!? 
+It's raining, isn't it? 
+Look at that: it's a bird! 
+Are you serious, man? 
+That's right, you heard me! 
+I am here... Where are you? 
+Hold on... What!? 
+She said: 'I am here'
+The sign read: 'Keep out'
+He whispered: 'This is a secret'
+The book was titled 'The Great Gatsby'
+She shouted: 'I won'
+He replied: 'Not now'
+The message said: 'Meet me at noon'
+The song was called 'Bohemian Rhapsody'
+She texted: 'Where are you'
+The title was 'Catcher in the Rye'
+I have an apple. 
+She is an honest woman. 
+There is an hour left. 
+It was an unexpected event.
